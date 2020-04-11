@@ -9,4 +9,11 @@ Build a simulation word (my house/ office)
 
 **Images**
 **Gazebo world**
-![](images/gazebo world.png)
+![](images/gazebo%20world.png)
+
+**Building wall structure**
+![](images/Building%20editor.png)
+
+
+**Differential drive Robot Model**
+![](images/robot%20model.png)
