@@ -8,3 +8,5 @@ Build a simulation word (my house/ office)
 4. wrote a C++ world plugin to interact with the world.
 
 **Images**
+**Gazebo world**
+![](images/gazebo world.png)
