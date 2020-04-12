@@ -1,3 +1,0 @@
-/home/mahendra/workspace/project1/build/CMakeFiles/edit_cache.dir
-/home/mahendra/workspace/project1/build/CMakeFiles/rebuild_cache.dir
-/home/mahendra/workspace/project1/build/CMakeFiles/hello.dir
