@@ -1,5 +1,5 @@
 # Gazebo_simulation_world
-Build a simulation word (my house/ office)
+Build a simulation word (my house) using gazebo tools
 
 **Work Flow**
 1. Built model of single floor wall structure using the Building Editor tool in Gazebo.
