@@ -11,7 +11,7 @@ Building a simulation word (my house) using gazebo tools.
 ### Gazebo world :
 ![](images/gazebo%20world.png)
 
-### Building wall structure ::
+### Building wall structure :
 ![](images/Building%20editor.png)
 
 
